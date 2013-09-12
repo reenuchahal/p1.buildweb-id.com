@@ -72,7 +72,13 @@ I enrolled in a web design course at Santa Barbara City College to build a texti
 <footer class="row">
 
 <div class="col-md-offset-6 col-sm-6 col-lg-6 pageFooter">
-<p>copyright&#169;<a href="http://reenuchahal.info">reenuchahal.info 2013</a> <br/> <a href="mailto:reenuchahal@fas.harvard.edu">reenuchahal@fas.harvard.edu</a></p>
+<p>copyright&#169;<a href="http://reenuchahal.info">reenuchahal.info 2013</a> <br/> 
+<a href="mailto:reenuchahal@fas.harvard.edu">reenuchahal@fas.harvard.edu</a><br/>
+<a href="http://validator.w3.org/check?uri=http%3A%2F%2Fp1.buildweb-id.com%2F">Validate Markup</a> | 
+<a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fp1.buildweb-id.com%2Fcss%2Fstyle.css&amp;profile=css3&amp;usermedium=all&amp;warning=1&amp;vextwarning=&amp;lang=en">
+        Validate CSS
+</a>
+</p>
 <a class="fb" href="https://www.facebook.com/reenu.chahal.3"><img src="images/fb.png" alt="Facebook" /></a>
 <a class="twitter"  href="https://twitter.com/reenuchahal"><img src="images/twitter.png" alt="Twitter"/></a>
 <a class="linkedin"  href="http://www.linkedin.com/profile/view?id=46306550&amp;trk=nav_responsive_tab_profile"><img src="images/linkedin.png" alt="LinkedIn"/></a>
