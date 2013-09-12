@@ -45,6 +45,13 @@
   <li><a href="#">Oracle</a></li>
   </ul>
    <hr class="hidden-sm hidden-md hidden-lg" />
+   <h3 class="text-center">Text Editors </h3>
+   <ul class="nav nav-pills">
+  <li><a href="#">Eclipse</a></li>
+  <li><a href="#">Text Wrangler </a></li>
+  <li><a href="#">Aptana</a></li>
+   </ul>
+   <hr class="hidden-sm hidden-md hidden-lg" />
    </aside>
  <article class="col-sm-8 col-lg-8">
  <h2>About me</h2>
