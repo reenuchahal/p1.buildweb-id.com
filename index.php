@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Reenu Chahal | CSCIE-15 | Dynamic Web Application | Harvard Extension School </title>
-
-<link rel="shortcut icon" type="x-icon"  href="/images/favicon.ico" />
+<link rel="icon" href="images/favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css" />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
